@@ -21,3 +21,7 @@ print("The sum of list elements is:", total)
 
 
 ## Result
+
+Thus, the Python program to find the sum of all elements in a list was successfully executed.
+
+
